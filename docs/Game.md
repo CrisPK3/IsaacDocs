@@ -213,6 +213,8 @@ ___
 [ ](#){: .abrep .tooltip .badge }
 #### int GetDevilRoomDeals ( ) {: .copyable aria-label='Functions' }
 
+Get the number of Devil Deals taken during run. 
+
 ___
 ### Get·Donation·Mod·Angel () {: aria-label='Functions' }
 [ ](#){: .abrep .tooltip .badge }
